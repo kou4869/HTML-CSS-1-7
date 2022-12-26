@@ -12,8 +12,9 @@
   background-position: bottom;
 }
 
-.headline {
+.main-visual-text {
   padding: 20px;
+  color: gray;
 }
 
 main {
